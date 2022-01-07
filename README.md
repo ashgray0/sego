@@ -1,1 +1,3 @@
-# Sego - 10HP 4-channel digital function generator for Eurorack
+# Sego
+
+Sego is a work-in-progress 10HP digital function generator module for Eurorack built on the Daisy Seed DSP platform. Originally conceived as a VCO module inspired by the "Phase Distortion" oscillator from the Casio CZ-101, I am currently rewriting much of the firmware to enable the module to function more generally as both an audio and CV source. The goal now is to expand the original algorithm to function more like a complex envelope generator (like those found in early digital synthesizers like the Yamaha DX7 as well as in modern software instruments like Arturia Pigments) that can also act as an LFO, a VCO, and an external CV/audio processor.
